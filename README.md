@@ -31,6 +31,14 @@ Go library: https://github.com/jancona/hpsdr
 Python Quisk:
     http://james.ahlstrom.name/quisk/
 
+GNURadio C++ block:
+https://github.com/daniestevez/gr-hermeslite2
+
+Wireshark plugin:
+https://github.com/matthew-wolf-n4mtt/openhpsdr-u
+
+
+
 Steve's recommendation for a simple python code (rx4000.py):
 https://github.com/softerhardware/Hermes-Lite2/blob/master/software/ft8/rx4000.py
 
