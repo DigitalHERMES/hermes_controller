@@ -35,7 +35,7 @@ Steve's recommendation for a simple python code (rx4000.py):
 https://github.com/softerhardware/Hermes-Lite2/blob/master/software/ft8/rx4000.py
 
 
-## Some comments from RDP by Steve
+## Some comments to RDP by Steve
 
 
 - Notes on _getdata() in rx4000.py:
