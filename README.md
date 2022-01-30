@@ -15,7 +15,7 @@ https://github.com/softerhardware/Hermes-Lite2/wiki/Address-Management-Python
 
 C hl2setup: https://github.com/softerhardware/Hermes-Lite2/tree/master/software/hl2setup
 
-Python hermeslite.py:
+Python hermeslite.py (THE reference):
 https://github.com/softerhardware/Hermes-Lite2/tree/master/software/hermeslite
 
 C hl2_tcp: https://github.com/hotpaw2/hl2_tcp
