@@ -10,6 +10,8 @@ https://github.com/softerhardware/Hermes-Lite2/wiki/Protocol
 The HPSDR USB-port protocol documentation is here:
 https://github.com/TAPR/OpenHPSDR-SVN/tree/master/Documentation
 
+To understand get/set parameters:ss
+https://github.com/softerhardware/Hermes-Lite2/wiki/Address-Management-Python
 
 C hl2setup: https://github.com/softerhardware/Hermes-Lite2/tree/master/software/hl2setup
 
